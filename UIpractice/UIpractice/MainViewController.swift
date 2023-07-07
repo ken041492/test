@@ -9,6 +9,7 @@ import UIKit
 
 class MainViewController: UIViewController {
 
+    
     @IBOutlet weak var palatte: UIView!
     @IBOutlet weak var red_slider: UISlider!
     @IBOutlet weak var green_slider: UISlider!
